@@ -63,7 +63,7 @@ body {
 }
 
 .theme-background{
-    max-width: auto;
+    max-width: fit content;
     height: fit-content;
 }
 
