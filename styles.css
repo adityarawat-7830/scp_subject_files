@@ -63,7 +63,7 @@ body {
 }
 
 .theme-background{
-    max-width: 1207px;
+    max-width: auto;
     height: fit-content;
 }
 
